@@ -4,7 +4,6 @@ When you finally land on a clear, exciting vision — whether it's a new busines
 
 However, being highly selective about who gets to hear your vision is one of the most effective ways to protect it. Here is why broadcasting your goals prematurely can actually work against you.
 
----
 
 ## 1. The "Premature Accomplishment" Trap
 
@@ -12,7 +11,6 @@ Psychology research, most notably by Peter Gollwitzer at NYU, shows that sharing
 
 When you share your vision and someone responds with, "That's amazing! You're going to do great," your brain releases dopamine. You receive the social reward of the goal before you've done any of the actual work. This tricks your mind into feeling a premature sense of accomplishment, which significantly drops your motivation to execute the hard, unglamorous steps required to get there.
 
----
 
 ## 2. Early Ideas are Fragile
 
@@ -24,7 +22,6 @@ A new vision is like a seedling: it has potential, but it can't survive harsh we
 
 Until your vision has a strong enough foundation to withstand critique, sharing it exposes it to premature judgment.
 
----
 
 ## 3. The Motivation Shift
 
@@ -32,13 +29,11 @@ When a vision is private, your motivation is intrinsic — you are doing it for 
 
 The moment you tell everyone, you introduce external pressure. Now, your motivation can easily shift to extrinsic factors: you start working to avoid looking foolish, to prove the doubters wrong, or to meet the timeline you bragged about. This kind of anxiety-driven motivation leads to burnout much faster than passion does.
 
----
 
 ## 4. The Energy Leak
 
 Talking about doing something feels remarkably similar to actually doing it. If you spend hours explaining your vision, defending it, and hyping it up to friends, you are draining the creative and mental energy that should be applied to building the project itself.
 
----
 
 ## The Power of the Tongue
 
@@ -64,7 +59,6 @@ If you use your tongue to casually chatter about your goals to anyone who will l
 
 Words require energy. Explaining, defending, and hyping up a vision consumes a massive amount of mental and creative force. Every hour spent talking about what you are going to do is an hour of creative energy diverted away from the project itself.
 
----
 
 ## Seeking Those Who "Speak Life"
 
@@ -76,7 +70,6 @@ Look for people who practice the power of the tongue positively:
 - **The Guardrails:** Mentors who don't just flatter you, but use their words to warn you of blind spots while affirming your capability.
 - **The Believers:** Those who have a track record of seeing the potential in things before they exist, and who will remind you of your own vision when you start to doubt it.
 
----
 
 ## Who Should You Tell?
 
@@ -88,7 +81,6 @@ Keeping a vision quiet doesn't mean operating in total isolation. You just need 
 
 Protect your vision until it is strong enough to speak for itself.
 
----
 
 ## How to Handle Negative Comments
 
@@ -136,7 +128,6 @@ Your mind needs a palate cleanser. Intentionally spend the next 48 hours consumi
 
 Your vision wasn't given to them — it was given to you. They literally cannot see it the way you do, and they don't need to. Pack up your tools, close the door to the critics, and get back to work.
 
----
 
 ## The Death of a Vision
 
@@ -180,7 +171,6 @@ That school is a monument to a painful, yet invaluable life lesson. Our instinct
 
 **The Lesson:** Be fiercely protective of your vision when it is young. When a dream is still in its infancy, it does not have the strength to survive skepticism, malice, or the hidden agendas of others. Build in silence, let your roots grow deep, and only share your harvest when the tree is strong enough to stand on its own.
 
----
 
 ## The Delayed Calling
 

@@ -8,7 +8,6 @@ Most people spend their entire lives waiting for a single, lightning bolt moment
 
 You do not wait to feel certain before you move. You move, you engage, and certainty is the prize you win for staying in the game long enough for meaning to deepen.
 
----
 
 ## 2. The Core Distinctions
 
@@ -20,7 +19,6 @@ To find your way, you must first unlearn the myths the world tells you about pur
 
 **Clarity Comes From Engagement:** People wait to "feel certain" before they start. That is a trap. You will only find out who you are and what you care about by doing, failing, adjusting, and trying again.
 
----
 
 ## 3. My Advice to the Next Generation: The Three Questions
 
@@ -44,7 +42,6 @@ The world tells you to "follow your bliss," but that is incomplete advice. Your 
 
 Every meaningful path on earth contains boredom, frustration, rejection, and heavy repetition. The ultimate question is never "What do I enjoy?" The true question is: *"What struggle still feels worth it to me?"* If you can find a struggle you are willing to tolerate, you have found your path.
 
----
 
 ## 4. A Practical Exercise: Looking for the Tracks
 
@@ -58,7 +55,6 @@ Purpose is a detective game, and it always leaves tracks behind. Take out a piec
 
 Once you have written these down, step back and look for the repetition. Look for the common thread. That thread is the raw material of your purpose.
 
----
 
 ## A Final Note on "Smaller" Purposes
 

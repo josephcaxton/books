@@ -8,7 +8,6 @@ For a long time, I believed that success was purely a matter of intellect and wi
 
 Purpose is the vehicle, but energy is the fuel. If your tank is empty, you are going nowhere, no matter how beautiful the destination is. To build a lasting legacy, you must stop treating your personal energy like an infinite resource and start managing it like a sacred currency.
 
----
 
 ## 2. The Power of Awareness: Measuring Your Internal Meter
 
@@ -24,7 +23,6 @@ To protect your fuel, you must develop a sharp, daily awareness of your internal
 
 If you lack the self-awareness to read your own meter, you will constantly overcommit when you should rest, and procrastinate when you should build. Learn to read your body and your mind before the system forces a shutdown.
 
----
 
 ## 3. The Three Chambers: Energising Spirit, Soul, and Body
 
@@ -36,7 +34,6 @@ Human beings are three-dimensional. We are a spirit, we possess a soul (mind, wi
 
 **Energizing the Body:** Your physical frame is the temple that holds your vision. It requires high-quality sleep, clean hydration, nutritious food, and movement. Never sacrifice your physical vitality on the altar of "hustle."
 
----
 
 ## 4. The Law of Order: Energy and the Environment
 
@@ -68,7 +65,6 @@ Before you start your work in the morning, make it a non-negotiable rule to wake
 
 Dressing smart drastically improves your internal energy. When you look sharp, you feel sharp. You carry yourself with more authority, you speak with more conviction, and you approach your daily tasks with the mindset of a builder rather than a spectator. Order in your clothing creates order in your execution.
 
----
 
 ## 5. The Micro-Leaks: Attention to Detail
 
@@ -76,7 +72,6 @@ Building efficiently requires an incredible attention to detail. When you rush t
 
 An overlooked detail in a contract, an ignored warning sign in a relationship, or a lazy mistake in a project foundation will always demand triple the energy to fix later on. Paying close attention to detail upfront requires discipline, but it protects you from the massive, agonizing drains of damage control. Do the job right the first time, protect the details, and conserve your power.
 
----
 
 ## 6. The Energy Sucks: Vampires of Progress
 
@@ -92,7 +87,6 @@ To keep your tank full, you must not only fill it up — you must also ruthlessl
 
 My family, protect your fuel. The world will gladly consume your time and leave you empty if you allow it. Wake up, measure your meter, order your world, and guard your power so you can successfully build what God has put in your heart.
 
----
 
 ## A Final Fatherly Warning: The Trap of Knowledge Without Action
 

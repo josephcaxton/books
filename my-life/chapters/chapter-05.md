@@ -8,7 +8,6 @@ For some time, I looked at work the way most of the world does: as a necessary e
 
 When you have nothing to pour your energy into, your mind turns on itself. Laziness doesn't bring peace; it brings anxiety, insecurity, and mental fog. I was forced to learn that humans are designed to produce, not just consume. Work is a gift from God designed to build you while you build your future.
 
----
 
 ## 2. Why Work is Vitally Important
 
@@ -20,7 +19,6 @@ To build a legacy that outlives you, you must understand the true weight of why 
 
 **Work Provides Dignity and Independence:** There is a specific kind of quiet confidence that comes from eating the fruit of your own labor. Relying entirely on others for your survival shrinks your spirit. Work gives you the power to stand on your own two feet and become a provider rather than a dependent.
 
----
 
 ## 3. The Misconception of the "Easy Life"
 
@@ -30,7 +28,6 @@ When you see highly successful, wealthy people, do not make the mistake of think
 
 **The Universal Reality:** If you do not work to build your own dream, you will inevitably spend your life building someone else's. This does not mean it is wrong to work for a company or an employer; there is great value in that. However, while you are doing that job, you must always keep it at the back of your mind to guard your own future and protect your ultimate vision.
 
----
 
 ## 4. Work is Critical
 
@@ -42,7 +39,6 @@ But the benefits go much deeper than money. Culturally and socially, our shared 
 
 Ultimately, work is an investment in who you are becoming. Overcoming daily challenges builds your character, forcing you to develop problem-solving skills, discipline, and accountability. It establishes a healthy daily routine that prevents the mental stagnation and apathy that always creep in during periods of idleness. There is a deep, intrinsic sense of fulfillment and self-confidence that only comes from earned success — knowing that you have contributed something valuable to the world around you.
 
----
 
 ## 5. The Dignity of Labour
 
@@ -50,7 +46,6 @@ Looking down on certain types of work is deeply harmful. When unemployed individ
 
 The truth is that society cannot function without manual, entry-level, or service-oriented jobs. High-paying corporate roles rely entirely on custodians, delivery drivers, and agricultural workers to keep the world moving. Every honest job holds inherent worth, and a person's value as a human being is entirely separate from their job title. If the service and manual laborers stop working, the entire system collapses instantly.
 
----
 
 ## 6. The Psychological and Social Danger of Arrogance
 

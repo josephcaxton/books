@@ -8,7 +8,6 @@ For a long time, I thought purpose was something that just happened to you if yo
 
 Most importantly, I learned that while others can help you look for your purpose, no one else can build it for you. If someone else forces a blueprint onto your life, even with the best of intentions, the foundation will eventually crumble. Furthermore, purpose cannot thrive in darkness; you must be spiritually and mentally free before you can successfully build your life.
 
----
 
 ## 2. The Stories of My Journey
 
@@ -38,7 +37,6 @@ But finding it wasn't enough; I still had to be delivered from the darkness to a
 
 Shortly after, a miraculous thing happened. I was raised in a well-known Catholic family, but a Pentecostal church came to town and held an evening revival. I had no plans to attend, but I heard a persistent voice at the back of my head telling me to go. I went, and that very evening, I gave my life to Jesus. I joined the church choir, and suddenly, that heavy darkness that had followed me since secondary school completely lifted. A rush of indescribable light flooded my life. A few months later, with a clear mind, newfound discipline, and a spiritual awakening, I traveled abroad to build my future.
 
----
 
 ## 3. My Advice to the Next Generation
 
