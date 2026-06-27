@@ -8,7 +8,6 @@ In many areas of life, second place is a respectable achievement. But in a compe
 
 What I was forced to learn over many years of building a career in technology is that becoming the best you can be is not a goal you reach once and tick off. It is a permanent assignment. The moment you stop learning, someone else overtakes you — quietly, without announcement — and one day you discover that the world has moved on without you.
 
----
 
 ## 2. The Stories of My Journey
 
@@ -78,7 +77,6 @@ That was the last time I made that mistake. Now, I wait. However long it takes f
 
 When you are the best at what you do, people will wait for you. They will pay your price. They will come back every time — not because they have to, but because the alternative is too costly. That is the quiet power of genuine excellence. It commands premium rates and it earns loyalty that no discount can buy.
 
----
 
 ### What the Feedback Taught Me
 
@@ -97,7 +95,6 @@ Every one of those comments went straight into my notes. Every one of them becam
 
 The person who asks for feedback after failing is already ahead of the person who does not ask. And the person who acts on that feedback is ahead of both.
 
----
 
 ## 3. My Advice to the Next Generation
 
