@@ -11,7 +11,7 @@ Most importantly, I learned that while others can help you look for your purpose
 
 ## 2. The Stories of My Journey
 
-### Part I: The Cloud of the Forced Path
+### The Cloud of the Forced Path
 
 The first experience I can remember that truly shaped my life happened when I transitioned from primary to secondary school. My parents, wanting only the absolute best for me, aimed to get me into one of the top schools in the country. I sat for several entrance exams, but I wasn't selected for their top choices. With time running out, they registered me at a local school close to our home, with the plan that we would try again the following year.
 
@@ -21,7 +21,7 @@ If they had left me at that first school, my life would have turned out complete
 
 As soon as I stepped into that new, elite environment, everything went downhill. It felt as though a dark cloud descended over me. I completely lost my direction, my confidence, and my drive. Finishing my secondary education became a monumental struggle. Having lost all sense of purpose, I just blindly managed along until my final exams. Predictably, my results were deeply disappointing, and I spent the subsequent years forcing myself to retake most of those papers.
 
-### Part II: The Warning, the Wilderness, and the Awakening
+### The Warning, the Wilderness, and the Awakening
 
 Shortly after completing my secondary education, I had a strange, crystal clear dream that I would never forget. I was in a stadium watching a massive military ceremonial parade. On the opposite side, military governors sat waiting for the event to start. On the tarmac, military vehicles were parked, but some of their tyres were missing. Right in front of me was a half-built fence, and a thought struck me: *Why did the people who built this fence leave the work uncompleted?*
 
