@@ -10,7 +10,6 @@ What I was forced to learn, gradually, and sometimes humiliatingly is that the q
 
 Order is not a luxury reserved for certain types of people. It is a discipline that determines the standard of your work, the quality of your reputation, and ultimately, the size of what you are trusted to build.
 
----
 
 ## 2. The Stories of My Journey
 
@@ -48,7 +47,6 @@ The customer who walks into a restaurant notices within minutes whether the tabl
 
 Your thinking filters into everything you create. If your mind is disordered, your work will be disordered. If your standard for "clean" is "wiped quickly," that standard will show up in your products, your service, your contracts, your emails, and your relationships.
 
----
 
 ## 3. My Advice to the Next Generation
 
