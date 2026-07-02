@@ -1,4 +1,4 @@
-# Chapter 7: The Power of Paying Attention to Detail
+# Chapter 7: Order as a Discipline
 
 ## 1. The Lesson I Was Forced to Learn
 
