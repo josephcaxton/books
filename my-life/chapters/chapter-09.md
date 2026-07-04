@@ -64,7 +64,7 @@ Every morning, identify the task that matters most and do it first. Not after th
 
 The energy you recover from completing something important early in the day compounds forward. The weight you carry all day from the important thing you have been avoiding is a tax on every other hour. Eliminate the tax early.
 
-### Think For Yourself About Advice
+### Think For Yourself
 
 When someone gives you advice about how to live, what to eat, when to sleep, how to structure your day, always ask: *where does their interest sit?*
 
@@ -72,6 +72,6 @@ Most doctors will tell you that breakfast is the most important meal of the day.
 
 I am not telling you to skip breakfast. I am telling you to test everything against your own experience. Advice that comes from someone with a financial interest in your behaviour deserves scrutiny, not automatic obedience. Think clearly. Experiment honestly. Keep what works for you. Discard what does not.
 
-The point of time management is not to fill every hour with activity. It is to ensure that the hours you have, the genuinely limited, genuinely irreplaceable hours you have go toward building the life and legacy you were designed to create.
+The point of time management is not to fill every hour with activity. It is to ensure that the hours you have, the genuinely limited, genuinely irreplaceable hours you hav go toward building the life and legacy you were designed to create.
 
 Guard your time. It is the only thing that, once gone, cannot be returned to you at any price.
