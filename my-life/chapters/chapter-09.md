@@ -31,6 +31,16 @@ I eat once a day, at around 5pm to 6pm. I keep water, coffee, or lemon water on 
 
 That system did not arrive fully formed. It was built and refined over years of paying attention to when I work well and when I do not.
 
+### The Gym
+
+Every other day, I go to the gym. I spend about three hours each visit.
+
+You may think that is too much time. Here is how it breaks down: one hour running, thirty minutes on weights and stretching, and an hour in the jacuzzi, steam room, and sauna, sometimes swimming. The rest is showering and changing. That level of commitment was not where I started. It was built gradually over years, as my body began to ask for more.
+
+What the gym gives me is not only physical. I return from every session with more energy than I left with. Mental fog clears. And some of my best thinking happens during those hours, ideas surface, problems untangle, decisions become clearer. The body and the mind are not separate systems. When one is moving, the other tends to follow.
+
+When I was looking for the house I live in now, I made a deliberate decision to factor my work and health habits into the search. I needed an office in the home. I needed a high quality gym within easy reach, one with the full range of facilities I use. Both conditions were met. There is also a golf club ten minute walk away. I do not play golf currently, but the option is there if I ever choose to start. I did not leave these things to chance. I chose my environment to support the life I wanted to live.
+
 
 ## 3. My Advice to the Next Generation
 
@@ -74,4 +84,20 @@ I am not telling you to skip breakfast. I am telling you to test everything agai
 
 The point of time management is not to fill every hour with activity. It is to ensure that the hours you have, the genuinely limited, genuinely irreplaceable hours you hav go toward building the life and legacy you were designed to create.
 
-Guard your time. It is the only thing that, once gone, cannot be returned to you at any price.
+### Make Exercise Non-Negotiable
+
+Exercise is not a luxury that fits into your schedule when everything else is done. It is a tool for maintaining the mental and physical capacity to do everything else well.
+
+You do not need to start where I am. Start with a walk. Then register at a gym and go twice a week for thirty minutes. Do that consistently, and your body will begin to tell you when it needs more. Scale from there at your own pace. The important thing is that you begin, and that you treat it as a fixed part of your week, not an optional extra.
+
+Exercise clears mental fog in a way that little else can. Ideas come. Decisions become clearer. The hours you invest in your physical health are returned to you many times over in the quality of your focus and thinking.
+
+### Design Your Environment for the Life You Want to Live
+
+When you are in a position to choose where you live, think beyond the obvious. The size of the property. The neighbourhood. The commute.
+
+Think about the habits you want to sustain and the facilities that support them. Is there a good gym nearby? Green space for walking? The things that maintain your health and focus are not secondary considerations, they are infrastructure. Your environment will either make your best habits easy or make them hard. Choose accordingly.
+
+I factored a home office and a nearby gym into my decision when I bought my current home. Those were not afterthoughts. They were requirements. Your health and your focus are too important to leave to inconvenience.
+
+### Guard your time. It is the only thing that, once gone, cannot be returned to you at any price.
