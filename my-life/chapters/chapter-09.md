@@ -4,7 +4,7 @@
 
 If you are born and die at seventy years of age, you will have lived approximately 613,200 hours.
 
-By the time you are thirty, 262,980 of those hours are already gone. You are left with 350,220. Remove eight hours of sleep every night and another 116,800 disappears, leaving you with roughly 233,420 hours to build something that matters. And we have not yet accounted for the time spent eating, bathing, commuting, managing family difficulties, recovering from illness, or simply sitting in the noise of modern life.
+By the time you are thirty, 262,980 of those hours are already gone. You are left with 350,220. Remove eight hours of sleep every night and another 116,800 disappear, leaving you with roughly 233,420 hours to build something that matters. And we have not yet accounted for the time spent eating, bathing, commuting, managing family difficulties, recovering from illness, or simply sitting in the noise of modern life.
 
 The window to build something meaningful is far smaller than most people ever stop to calculate.
 
@@ -23,7 +23,7 @@ I wake up at 4am. The first three hours of my morning are not given to the distr
 
 I sit at my desk and go through my emails. Then I write my to-do list for the day. I separate administrative tasks from deep work tasks. I put the hardest task at the top of the list, deliberately. Most people do the opposite; they warm up with small tasks and build toward the difficult one. I have found this backwards. If I get the hardest thing done early, the energy I recover from that accomplishment carries me through the rest of the day. There is a specific return of momentum that comes from completing something important. I want to collect that return early.
 
-I set alarms on my phone for every meeting of the day, with a two minute warning before each one. This allows me to work in deep focus between meetings without using mental energy to monitor the clock. As soon as I am off a call, I note any actions required and return to deep work immediately. It takes between fifteen and twenty minutes for the mind to re-enter full focus after a meeting, that transition time is real and must be managed. On my desk I keep a Pomodoro timer cube. When I need to push myself back into deep concentration, I flip it to fifty minutes. The physical act of turning it on becomes a signal to my brain: we are working now.
+I set alarms on my phone for every meeting of the day, with a two-minute warning before each one. This allows me to work in deep focus between meetings without using mental energy to monitor the clock. As soon as I am off a call, I note any actions required and return to deep work immediately. It takes between fifteen and twenty minutes for the mind to re-enter full focus after a meeting; that transition time is real and must be managed. On my desk I keep a Pomodoro timer cube. When I need to push myself back into deep concentration, I flip it to fifty minutes. The physical act of turning it on becomes a signal to my brain: we are working now.
 
 Around 1pm to 2pm I take an hour break. When I return, I shift to tasks that do not require deep concentration. This is not laziness, it is energy management. I have more cognitive power in the morning than in the afternoon. Protecting my mornings for the hardest work and my afternoons for lighter tasks is a deliberate allocation, not a coincidence.
 
@@ -37,9 +37,9 @@ Every other day, I go to the gym. I spend about three hours each visit.
 
 You may think that is too much time. Here is how it breaks down: one hour running, thirty minutes on weights and stretching, and an hour in the jacuzzi, steam room, and sauna, sometimes swimming. The rest is showering and changing. That level of commitment was not where I started. It was built gradually over years, as my body began to ask for more.
 
-What the gym gives me is not only physical. I return from every session with more energy than I left with. Mental fog clears. And some of my best thinking happens during those hours, ideas surface, problems untangle, decisions become clearer. The body and the mind are not separate systems. When one is moving, the other tends to follow.
+What the gym gives me is not only physical. I return from every session with more energy than I left with. Mental fog clears. And some of my best thinking happens during those hours, ideas surface. Problems untangle, decisions become clearer. The body and the mind are not separate systems. When one is moving, the other tends to follow.
 
-When I was looking for the house I live in now, I made a deliberate decision to factor my work and health habits into the search. I needed an office in the home. I needed a high quality gym within easy reach, one with the full range of facilities I use. Both conditions were met. There is also a golf club ten minute walk away. I do not play golf currently, but the option is there if I ever choose to start. I did not leave these things to chance. I chose my environment to support the life I wanted to live.
+When I was looking for the house I live in now, I made a deliberate decision to factor my work and health habits into the search. I needed an office in the home. I needed a high quality gym within easy reach, one with the full range of facilities I use. Both conditions were met. There is also a golf club ten-minute walk away. I do not play golf currently, but the option is there if I ever choose to start. I did not leave these things to chance. I chose my environment to support the life I wanted to live.
 
 
 ## 3. My Advice to the Next Generation
@@ -82,7 +82,7 @@ Most doctors will tell you that breakfast is the most important meal of the day.
 
 I am not telling you to skip breakfast. I am telling you to test everything against your own experience. Advice that comes from someone with a financial interest in your behaviour deserves scrutiny, not automatic obedience. Think clearly. Experiment honestly. Keep what works for you. Discard what does not.
 
-The point of time management is not to fill every hour with activity. It is to ensure that the hours you have, the genuinely limited, genuinely irreplaceable hours you hav go toward building the life and legacy you were designed to create.
+The point of time management is not to fill every hour with activity. It is to ensure that the hours you have, the genuinely limited, genuinely irreplaceable hours you have go toward building the life and legacy you were designed to create.
 
 ### Make Exercise Non-Negotiable
 
