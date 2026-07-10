@@ -38,7 +38,6 @@ He lost a job in the middle of that period. Tragic events from the previous year
 
 This is not magic. This is the law of engagement. Clarity is not a gift handed to the passive. It is a reward earned by the moving.
 
----
 
 ## 4. My Advice to the Next Generation: The Three Questions
 
