@@ -16,3 +16,4 @@ Beyond the technical work, Joseph is a mentor — actively investing in the next
 - Website: [caxtonidowu.com](https://caxtonidowu.com)
 - LinkedIn: [linkedin.com/in/josephcaxton](https://linkedin.com/in/josephcaxton)
 - Email: joseph@firstcloudsolutions.net
+- Blogs: [Blog space](https://caxtonidowu.com/blog)
