@@ -2,11 +2,10 @@
 
 ## Title (Confirmed)
 
-**The Price I Paid for You: A Father's Wisdom for the Next Generation**
+**The Price I Paid: A Father's Wisdom for the Next Generation**
 
 ### Why This Title Works
 - "The Price I Paid" — every scar, every failed business, every hard lesson in the book is the price.
-- "For You" — transforms hardship into a gift. The suffering had a purpose: it was accumulated so it could be handed over freely.
 - "A Father's Wisdom for the Next Generation" — signals exactly who the book is for and positions it as a legacy memoir, not a generic self-help book.
 
 ---

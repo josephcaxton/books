@@ -1,4 +1,4 @@
-# The Price I Paid for You
+# The Price I Paid
 
 ## A Father's Wisdom for the Next Generation
 

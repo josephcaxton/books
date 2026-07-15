@@ -1,6 +1,6 @@
 # Copyright
 
-**The Price I Paid for You: A Father's Wisdom for the Next Generation**
+**The Price I Paid: A Father's Wisdom for the Next Generation**
 By Joseph Caxton-Idowu
 
 Copyright © 2026 Joseph Caxton-Idowu
