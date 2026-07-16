@@ -6,7 +6,7 @@
 
 ## The Executive Vignette
 
-A European wholesale distributor operating across 23 markets had a persistent operational problem. Every time a major supplier delayed a shipment, a cascade of manual coordination was required: procurement had to identify alternative sources, logistics had to recalculate delivery windows, finance had to reissue purchase orders and adjust cash flow forecasts, and account management had to notify affected clients with revised timelines. The entire sequence involved six departments, fourteen individual handoffs, and — on a good day — took 72 hours to resolve.
+A European wholesale distributor operating across 23 markets had a persistent operational problem. Every time a major supplier delayed a shipment, a cascade of manual coordination was required: procurement had to identify alternative sources, logistics had to recalculate delivery windows, finance had to reissue purchase orders and adjust cash flow forecasts, and account management had to notify affected clients with revised timelines. The entire sequence involved six departments, fourteen individual handoffs, and on a good day took 72 hours to resolve.
 
 On a bad day, it took a week. By then, three downstream retailers had already sourced from a competitor.
 
