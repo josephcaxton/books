@@ -88,13 +88,13 @@ This is what separates a generic chatbot from a system that knows your specific 
 
 **Component 4: The Feedback Loop**
 
-The most critical — and most frequently neglected — component. Every time the AI system operates in production, its outputs generate new data:
+The most critical, and most frequently neglected component. Every time the AI system operates in production, its outputs generate new data:
 - Was the prediction accurate?
 - Did the customer accept the recommendation?
 - Did the escalation result in a satisfactory resolution?
 - Was the maintenance estimate within acceptable tolerance?
 
-This outcome data must flow back into the capture layer, enriching the proprietary data store and enabling continuous refinement. The system does not merely execute — it learns from its own execution. Each cycle makes it more accurate, more contextually aware, and harder for competitors to replicate.
+This outcome data must flow back into the capture layer, enriching the proprietary data store and enabling continuous refinement. The system does not merely execute, it learns from its own execution. Each cycle makes it more accurate, more contextually aware, and harder for competitors to replicate.
 
 This is the compounding effect. Company B in the opening vignette does not simply have more data than its competitors. It has data that has been refined through thousands of production feedback cycles. Every month it operates widens the intelligence gap.
 
@@ -158,7 +158,7 @@ The most common data leakage vector is not a sophisticated cyberattack. It is an
 
 Prevention requires:
 - Clear, enforced policies defining which data classifications may and may not be used with external AI tools.
-- Technical controls (DLP systems, network monitoring, approved tool whitelists) that make policy violations difficult rather than merely prohibited.
+- Technical controls (data loss prevention systems, network monitoring, approved tool whitelists) that make policy violations difficult rather than merely prohibited.
 - Regular training that explains *why* these controls exist — not just what the rules are.
 
 **Level 3: Architectural Isolation**
