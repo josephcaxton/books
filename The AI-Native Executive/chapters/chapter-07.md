@@ -8,11 +8,11 @@
 
 A mid-market SaaS company in Boston had deployed AI across four operational functions: customer support triage, contract summarisation, lead scoring, and internal knowledge retrieval. Each function consumed tokens from the same frontier model API. There was no centralised tracking. No allocation logic. No cost per workflow visibility.
 
-In Q3 2024, the CFO received a cloud bill showing a 340% increase in AI infrastructure costs compared to Q1. The engineering team could not explain which function was consuming what. The customer support workflow — handling 80,000 tickets per month — was routing every interaction, including trivial password reset requests, through the same $15 per million token frontier model used for complex contract analysis. A query that should have cost $0.002 was costing $0.14 because no one had built a routing layer that differentiated between a simple FAQ retrieval and a nuanced legal interpretation.
+In Q3 2024, the CFO received a cloud bill showing a 340% increase in AI infrastructure costs compared to Q1. The engineering team could not explain which function was consuming what. The customer support workflow handling 80,000 tickets per month was routing every interaction, including trivial password reset requests, through the same $15 per million token frontier model used for complex contract analysis. A query that should have cost $0.002 was costing $0.14 because no one had built a routing layer that differentiated between a simple FAQ retrieval and a nuanced legal interpretation.
 
 The company was burning $47,000 per month on inference for a support function whose output quality would have been identical at $6,200 per month — if someone had implemented a tiered model routing strategy that sent simple queries to a lightweight model and reserved the frontier model for genuine complexity.
 
-No one had. Because no one was managing inference as a budget. It was treated as a generic cloud cost — invisible, unallocated, and unoptimised.
+No one had. Because no one was managing inference as a budget. It was treated as a generic cloud cost, invisible, unallocated, and unoptimised.
 
 The inference budget is not a technical concern. It is a financial governance imperative. Every token consumed is a unit of operational expenditure. Every workflow that runs without cost visibility is a margin leak. And every enterprise that fails to manage inference economics will discover usually through an alarming invoice that AI capability without financial discipline is just expensive chaos.
 
@@ -22,7 +22,7 @@ The inference budget is not a technical concern. It is a financial governance im
 
 ### 7.1 The Shift from IT CapEx to Dynamic OpEx
 
-Traditional enterprise IT budgeting operates on a capital expenditure model: you purchase software licences, hardware infrastructure, and implementation services upfront. Costs are amortised over three to five years. Budgets are set annually. Consumption is largely static — the licence costs the same whether you use it intensively or barely at all.
+Traditional enterprise IT budgeting operates on a capital expenditure model: you purchase software licences, hardware infrastructure, and implementation services upfront. Costs are amortised over three to five years. Budgets are set annually. Consumption is largely static, the licence costs the same whether you use it intensively or barely at all.
 
 AI-native infrastructure operates on an entirely different financial model: **dynamic operational expenditure that varies with consumption in real time.** Every API call, every token processed, every inference request carries a direct, measurable cost. Usage spikes create cost spikes. Efficiency gains create immediate savings.
 
