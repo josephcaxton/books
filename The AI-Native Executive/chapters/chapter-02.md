@@ -157,7 +157,7 @@ Prevention requires hard architectural constraints:
 - Maximum iteration limits on any agent to agent communication cycle (typically 2 to 3 rounds before forced escalation).
 - Timeout thresholds that force escalation to a human Supervisor if resolution is not achieved within defined time parameters.
 - Deadlock detection logic embedded in the orchestration layer that identifies circular dependencies and breaks them with a forced escalation or a default resolution path.
-- Resource consumption monitoring that flags workflows consuming disproportionate compute relative to their expected execution profile — a strong signal that a loop or deadlock condition has occurred.
+- Resource consumption monitoring that flags workflows consuming disproportionate compute relative to their expected execution profile a strong signal that a loop or deadlock condition has occurred.
 
 Without these protocols, multi-agent systems degrade quietly consuming compute, producing nothing, and creating invisible operational debt that accumulates until it manifests as a billing spike or a throughput collapse.
 
