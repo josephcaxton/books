@@ -4,7 +4,7 @@
 
 You can have the most brilliant blueprint in the world, the finest materials, and a clear sense of purpose, but if you do not have the power to turn the engine over, nothing gets built.
 
-For a long time, I believed that success was purely a matter of intellect and willpower. I thought that if I just forced my mind to focus, my life would fall into place. What I learned the hard way — through seasons of intense burnout, creative stagnation, and missed opportunities — is that building requires raw energy.
+For a long time, I believed that success was purely a matter of intellect and willpower. I thought that if I just forced my mind to focus, my life would fall into place. What I learned the hard way through seasons of intense burnout, creative stagnation, and missed opportunities is that building requires raw energy.
 
 Purpose is the vehicle, but energy is the fuel. If your tank is empty, you are going nowhere, no matter how beautiful the destination is. To build a lasting legacy, you must stop treating your personal energy like an infinite resource and start managing it like a sacred currency.
 
@@ -61,7 +61,7 @@ This law of order doesn't just apply to the walls around you; it applies directl
 
 In the modern world, many people work remotely, but just because you are working from home is not an excuse to stay in your pajamas. Slipping into slouchy, careless clothing tells your brain that it is time to relax, rest, or slide into laziness. It causes a massive drop in your psychological frequency.
 
-Before you start your work in the morning, make it a non-negotiable rule to wake up, take a good shower, dress well, and smell good — exactly as if you were heading out to a corporate office.
+Before you start your work in the morning, make it a non-negotiable rule to wake up, take a good shower, dress well, and smell good exactly as if you were heading out to a corporate office.
 
 Dressing smart drastically improves your internal energy. When you look sharp, you feel sharp. You carry yourself with more authority, you speak with more conviction, and you approach your daily tasks with the mindset of a builder rather than a spectator. Order in your clothing creates order in your execution.
 
@@ -75,7 +75,7 @@ An overlooked detail in a contract, an ignored warning sign in a relationship, o
 
 ## 6. The Energy Sucks: Vampires of Progress
 
-To keep your tank full, you must not only fill it up — you must also ruthlessly plug the holes. There are specific, toxic habits that act as immediate drains on your life force.
+To keep your tank full, you must not only fill it up you must also ruthlessly plug the holes. There are specific, toxic habits that act as immediate drains on your life force.
 
 | Energy Drain | The Cost to Your Vision | The Remedy |
 |---|---|---|

@@ -35,25 +35,25 @@ It provides financial survival, personal identity, and a structured contribution
 
 At its core, honest labor does far more than just cover your basic necessities like food, housing, and bills. It is the foundation of your independence. Regular work provides you with future stability through savings and retirement, giving you the financial freedom to make personal choices, travel, and enjoy your life.
 
-But the benefits go much deeper than money. Culturally and socially, our shared collective labor is what prevents systemic collapse — it keeps supply chains moving, medical networks running, and utilities functioning. On a personal level, the workplace connects you to a diverse network of colleagues and mentors, keeping isolation and loneliness at bay.
+But the benefits go much deeper than money. Culturally and socially, our shared collective labor is what prevents systemic collapse it keeps supply chains moving, medical networks running, and utilities functioning. On a personal level, the workplace connects you to a diverse network of colleagues and mentors, keeping isolation and loneliness at bay.
 
-Ultimately, work is an investment in who you are becoming. Overcoming daily challenges builds your character, forcing you to develop problem-solving skills, discipline, and accountability. It establishes a healthy daily routine that prevents the mental stagnation and apathy that always creep in during periods of idleness. There is a deep, intrinsic sense of fulfillment and self-confidence that only comes from earned success — knowing that you have contributed something valuable to the world around you.
+Ultimately, work is an investment in who you are becoming. Overcoming daily challenges builds your character, forcing you to develop problem-solving skills, discipline, and accountability. It establishes a healthy daily routine that prevents the mental stagnation and apathy that always creep in during periods of idleness. There is a deep, intrinsic sense of fulfillment and self-confidence that only comes from earned success knowing that you have contributed something valuable to the world around you.
 
 
 ## 5. The Dignity of Labour
 
-Looking down on certain types of work is deeply harmful. When unemployed individuals mock those who do manual labor, it is usually just a psychological defense mechanism — a way to protect their own self-esteem and hide their deep insecurities.
+Looking down on certain types of work is deeply harmful. When unemployed individuals mock those who do manual labor, it is usually just a psychological defense mechanism a way to protect their own self-esteem and hide their deep insecurities.
 
 The truth is that society cannot function without manual, entry-level, or service-oriented jobs. High-paying corporate roles rely entirely on custodians, delivery drivers, and agricultural workers to keep the world moving. Every honest job holds inherent worth, and a person's value as a human being is entirely separate from their job title. If the service and manual laborers stop working, the entire system collapses instantly.
 
 
 ## 6. The Psychological and Social Danger of Arrogance
 
-When we devalue specific roles, we don't just hurt the individuals doing the work — we damage the entire fabric of our community. Shaming honest workers strips them of their personal pride and breeds unnecessary anxiety and depression. Culturally, it creates toxic class divides and social resentment that tears people apart. Furthermore, this disrespect backfires on the future; when we look down on essential trades and service fields, we discourage the younger generation from entering them, creating massive labor shortages in the very industries we need to survive. Every role matters, and everyone deserves respect.
+When we devalue specific roles, we don't just hurt the individuals doing the work we damage the entire fabric of our community. Shaming honest workers strips them of their personal pride and breeds unnecessary anxiety and depression. Culturally, it creates toxic class divides and social resentment that tears people apart. Furthermore, this disrespect backfires on the future; when we look down on essential trades and service fields, we discourage the younger generation from entering them, creating massive labor shortages in the very industries we need to survive. Every role matters, and everyone deserves respect.
 
 ### The Root of the Issue: Classist Thinking
 
-At its core, looking down on working people — whether from a position of generational wealth or from a place of unemployed resentment — is a direct manifestation of classism: the systemic prejudice, discrimination, or stereotyping of people based on their social or economic class.
+At its core, looking down on working people whether from a position of generational wealth or from a place of unemployed resentment is a direct manifestation of classism: the systemic prejudice, discrimination, or stereotyping of people based on their social or economic class.
 
 **How Classism Distorts Our Thinking:** This attitude thrives on status bias, which assigns a person's entire human worth to their income, job title, or educational background. It conditions society to stigmatise honest labor, viewing manual, service, or administrative work as "low class" or undesirable. Over time, people internalise a false sense of learned superiority, believing that those in higher social tiers are inherently smarter or better than everyone else.
 

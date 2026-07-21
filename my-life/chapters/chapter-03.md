@@ -1,6 +1,6 @@
 # Chapter 3: Knowing When to Talk
 
-When you finally land on a clear, exciting vision — whether it's a new business, a creative project, or a major life change — the natural instinct is to broadcast it. You want others to feel the same enthusiasm you do.
+When you finally land on a clear, exciting vision whether it's a new business, a creative project, or a major life change the natural instinct is to broadcast it. You want others to feel the same enthusiasm you do.
 
 However, being highly selective about who gets to hear your vision is one of the most effective ways to protect it. Here is why broadcasting your goals prematurely can actually work against you.
 
@@ -25,7 +25,7 @@ Until your vision has a strong enough foundation to withstand critique, sharing 
 
 ## 3. The Motivation Shift
 
-When a vision is private, your motivation is intrinsic — you are doing it for yourself because you believe in it.
+When a vision is private, your motivation is intrinsic you are doing it for yourself because you believe in it.
 
 The moment you tell everyone, you introduce external pressure. Now, your motivation can easily shift to extrinsic factors: you start working to avoid looking foolish, to prove the doubters wrong, or to meet the timeline you bragged about. This kind of anxiety-driven motivation leads to burnout much faster than passion does.
 
@@ -37,7 +37,7 @@ Talking about doing something feels remarkably similar to actually doing it. If 
 
 ## The Power of the Tongue
 
-The ancient wisdom that words have the power to create or destroy adds a profound layer to why you must guard your vision. Whether you view this psychologically or spiritually, words do not just describe reality — they actively shape it.
+The ancient wisdom that words have the power to create or destroy adds a profound layer to why you must guard your vision. Whether you view this psychologically or spiritually, words do not just describe reality they actively shape it.
 
 When you introduce the power of the tongue into the equation, broadcasting your vision becomes not just a matter of lost motivation, but of protecting the integrity and life force of the idea itself.
 
@@ -51,7 +51,7 @@ An old proverb in the Bible states, *"Death and life are in the power of the ton
 
 ### Diluting Your Own Decree
 
-Your words carry creative weight. When you declare a vision out loud, it is a decree — a binding commitment that sets action into motion.
+Your words carry creative weight. When you declare a vision out loud, it is a decree a binding commitment that sets action into motion.
 
 If you use your tongue to casually chatter about your goals to anyone who will listen, you cheapen the currency of your own word. You train your subconscious to treat your declarations as mere conversational entertainment rather than promises. Keeping your mouth shut preserves the potency of your intention; when you finally do speak about it, it is backed by undeniable action.
 
@@ -84,7 +84,7 @@ Protect your vision until it is strong enough to speak for itself.
 
 ## How to Handle Negative Comments
 
-It can feel like a punch to the gut when you share something close to your heart and someone dumps cold water on it. Our brains are wired with a negativity bias — meaning we register negative feedback much more intensely than positive feedback. Their words can stick in your head like lint, playing on a loop.
+It can feel like a punch to the gut when you share something close to your heart and someone dumps cold water on it. Our brains are wired with a negativity bias meaning we register negative feedback much more intensely than positive feedback. Their words can stick in your head like lint, playing on a loop.
 
 To shake off their words and reclaim your confidence, you need to actively change how you process what they said. Here is a strategy to neutralize the negativity and get your momentum back.
 
@@ -108,7 +108,7 @@ But if their comment was harsh but pointed to a real logistical gap (*"How will 
 
 ### 3. Rewrite the Script (The Pivot)
 
-Every time their negative comment pops into your head, do not fight it — replace it. If you try to force yourself not to think about it, it will persist. Instead, use a pivot phrase:
+Every time their negative comment pops into your head, do not fight it replace it. If you try to force yourself not to think about it, it will persist. Instead, use a pivot phrase:
 
 | When the memory plays... | Instantly counter with... |
 |---|---|
@@ -126,7 +126,7 @@ Go completely quiet about the project around them. Take all that defensive energ
 
 Your mind needs a palate cleanser. Intentionally spend the next 48 hours consuming content that fuels your vision. Read biographies of people who built impossible things, listen to podcasts in your niche, or talk to that one friend who always leaves you feeling energized. Flood the engine with clean fuel so the toxic feedback gets crowded out.
 
-Your vision wasn't given to them — it was given to you. They literally cannot see it the way you do, and they don't need to. Pack up your tools, close the door to the critics, and get back to work.
+Your vision wasn't given to them it was given to you. They literally cannot see it the way you do, and they don't need to. Pack up your tools, close the door to the critics, and get back to work.
 
 
 ## The Death of a Vision
@@ -163,7 +163,7 @@ It was only later that the bitter truth revealed itself. We discovered that she 
 
 Years passed. Decades, actually.
 
-The mysterious landowner never showed up. No one ever stepped forward to claim that forgotten patch of earth. But eventually, the truth came to light in the most ironic way possible: the land had belonged to my father all along — he sold it to the chief justice of the town.
+The mysterious landowner never showed up. No one ever stepped forward to claim that forgotten patch of earth. But eventually, the truth came to light in the most ironic way possible: the land had belonged to my father all along he sold it to the chief justice of the town.
 
 Today, if you walk out to the back of that property, you won't find a wild bush, and you won't find a couple of boys daydreaming in the sun. Today, a massive, thriving school stands proudly on that very soil.
 
@@ -176,17 +176,17 @@ That school is a monument to a painful, yet invaluable life lesson. Our instinct
 
 In the 1990s, I was living in the United Kingdom. I attended a party one evening where I found myself chatting with two women. As the music and conversation flowed, one of the ladies began to share her heart. She was practically beaming with excitement as she told us about her dream: she wanted to become a nurse.
 
-She had already taken the terrifying first step — she had filled out the application forms and was ready to submit them to the university. You could feel the electric energy of someone standing on the precipice of a new life.
+She had already taken the terrifying first step she had filled out the application forms and was ready to submit them to the university. You could feel the electric energy of someone standing on the precipice of a new life.
 
 But before her excitement could even settle in the room, the second lady cut her down.
 
-"Nursing is a terrible idea," she asserted flatly. "There are absolutely no jobs out there. It's a dead-end profession. Nothing good is going to come from you going into nursing."
+"Nursing is a terrible idea," she asserted flatly. "There are absolutely no jobs out there. It's a dead end profession. Nothing good is going to come from you going into nursing."
 
 The disapproval was so heavy, so absolute, that it acted like a suffocating blanket on a fire. The first lady's confidence crumbled right before my eyes. Paralyzed by the fear of making a massive mistake, she quietly shelved her application. She surrendered her dream.
 
 Nearly a decade passed.
 
-One day, I made a startling discovery. The second lady — the very one who had adamantly declared that nursing was a dead-end, jobless disaster — had quietly gone to university and become a registered nurse herself. She hadn't given that advice out of a genuine, objective warning; she had looked at a good idea, convinced her friend to drop it, and then stolen the blueprint for herself.
+One day, I made a startling discovery. The second lady the very one who had adamantly declared that nursing was a dead end, jobless disaster had quietly gone to university and become a registered nurse herself. She hadn't given that advice out of a genuine, objective warning; she had looked at a good idea, convinced her friend to drop it, and then stolen the blueprint for herself.
 
 When the first lady eventually found out about this betrayal, it was a massive wake-up call. Realizing she had been manipulated into abandoning her own destiny, she refused to let the dream die entirely. She dusted off her decade-old ambition, enrolled in university, and finally became a nurse.
 

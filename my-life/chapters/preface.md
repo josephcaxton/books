@@ -64,6 +64,6 @@ If this book has helped you, challenged you, or sparked a question — I would w
 - **Website:** [caxtonidowu.com](https://caxtonidowu.com)
 - **LinkedIn:** [linkedin.com/in/josephcaxton](https://linkedin.com/in/josephcaxton)
 - **Email:** joseph@firstcloudsolutions.net
-- **WhatsApp** +44 7766693343
+- **WhatsApp:** +44 7766693343
 
 I am always glad to hear from family, mentees, and anyone who is genuinely working to build something meaningful with their life.

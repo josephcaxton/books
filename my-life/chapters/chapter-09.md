@@ -1,4 +1,4 @@
-# Chapter 9: Time — The Only Currency You Cannot Earn Back
+# Chapter 9: Time: The Only Currency You Cannot Earn Back
 
 ## 1. The Lesson I Was Forced to Learn
 

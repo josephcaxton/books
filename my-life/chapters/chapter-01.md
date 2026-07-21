@@ -27,7 +27,7 @@ Shortly after completing my secondary education, I had a strange, crystal clear 
 
 When I woke up, I was worried and told my mother. Her interpretation was far from what actually unfolded. A few years later, I ended up entering a military school. I stayed there for almost a year before realizing the military was not for me.
 
-It was only after I left that the dream made sense: the parade predicted my entry, but the missing tyres and the uncompleted fence predicted my departure before completion. Yet, that time was not wasted. The military college was a place of deep self-discovery. It equipped me with discipline, tenacity, confidence, courage, and independence — the very tools I needed to build my future.
+It was only after I left that the dream made sense: the parade predicted my entry, but the missing tyres and the uncompleted fence predicted my departure before completion. Yet, that time was not wasted. The military college was a place of deep self-discovery. It equipped me with discipline, tenacity, confidence, courage, and independence the very tools I needed to build my future.
 
 However, when I returned home, that old secondary school darkness was still lingering over me. I fell into a wild, destructive lifestyle. I was partying, drinking, womanizing, and keeping bad company. My parents, desperate to get me under control, decided it would be best for me to study abroad.
 
@@ -44,10 +44,10 @@ Based on the long, winding road I took to find my way out of the dark, here is m
 
 **Pay Attention to the Warning Signs (and the Whispers):** God will speak to you, sometimes through vivid dreams, sometimes through a quiet voice at the back of your head. When I listened to the whisper to go to that revival, my life changed forever. Never ignore your spiritual intuition.
 
-**No Experience is Wasted if it Builds Your Character:** My time in the military was "uncompleted," but it wasn't a failure. It gave me the discipline and courage I needed for the next phase of my life. Even when you find yourself on a path that you realize isn't for you, extract the tools — discipline, tenacity — and carry them forward.
+**No Experience is Wasted if it Builds Your Character:** My time in the military was "uncompleted," but it wasn't a failure. It gave me the discipline and courage I needed for the next phase of my life. Even when you find yourself on a path that you realize isn't for you, extract the tools discipline, tenacity and carry them forward.
 
 **Purpose Requires the Right Tools:** I didn't find my purpose by just thinking about it; I found it when I sat in front of a computer. You must expose yourself to new things, new skills, and new technologies. It's difficult to discover your call if you stay idle.
 
 **You Cannot Build a Bright Future Under a Dark Cloud:** You can have the discipline of a soldier and the best technology in the world, but if your lifestyle is fueled by heavy drinking, bad company, and reckless living, you will tear down whatever you build. True success requires spiritual alignment. Seek the light, get your soul right, and the darkness will have no choice but to lift.
 
-**Guide, Never Decide (For Future Parents):** Remember my first lesson. Your job as a parent is to guide your children toward opportunity — just as my parents guided me to the computer school and supported my move abroad — but never force them into an environment that crushes their spirit.
+**Guide, Never Decide (For Future Parents):** Remember my first lesson. Your job as a parent is to guide your children toward opportunity just as my parents guided me to the computer school and supported my move abroad but never force them into an environment that crushes their spirit.

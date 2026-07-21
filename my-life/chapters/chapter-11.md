@@ -6,12 +6,12 @@ One of the greatest challenges you will face in life is not the market, not the 
 
 People are spectacularly creative at causing problems. Whether deliberately or completely by accident, human beings have an extraordinary ability to complicate the simplest situations, to misread the clearest intentions, and to introduce friction into arrangements that should be straightforward. If I were to write down everything I have personally experienced through people alone, it would fill at least three books.
 
-But I want to give you the primary patterns — the ways people most reliably cause damage so that you can recognise them early and respond wisely rather than react emotionally.
+But I want to give you the primary patterns the ways people most reliably cause damage so that you can recognise them early and respond wisely rather than react emotionally.
 
 
 ## The Primary Ways People Cause Friction
 
-**Communication Breakdowns:** Most conflict does not begin with malice — it begins with assumption. People assume they have been understood. They assume others know what they mean. They drop hints instead of speaking plainly, use sarcasm instead of honesty, and give the silent treatment instead of having a direct conversation. Meanwhile, information passed from person to person mutates — a minor detail becomes a scandal, a small misunderstanding becomes a grievance. By the time a message reaches its fifth carrier, it often bears no resemblance to what was originally said.
+**Communication Breakdowns:** Most conflict does not begin with malice it begins with assumption. People assume they have been understood. They assume others know what they mean. They drop hints instead of speaking plainly, use sarcasm instead of honesty, and give the silent treatment instead of having a direct conversation. Meanwhile, information passed from person to person mutates a minor detail becomes a scandal, a small misunderstanding becomes a grievance. By the time a message reaches its fifth carrier, it often bears no resemblance to what was originally said.
 
 **Ego and Power Struggles:** Some people change their expectations mid-game so that you can never actually satisfy them. The target moves every time you get close. Others take the applause when things go well and distribute blame when they do not. Some will actively work to undermine your success, not because it threatens them practically, but because it highlights their own stagnation.
 
@@ -26,7 +26,7 @@ But I want to give you the primary patterns — the ways people most reliably ca
 
 ### The Farmer and the Land
 
-There was a time I purchased land in Lagos, Nigeria. My agent told me the owner needed to raise funds urgently before travelling abroad, and the land was well-positioned. I needed to build an office, so I moved quickly. I had two weeks before returning to London and wanted as much progress as possible before I left.
+There was a time I purchased land in Lagos, Nigeria. My agent told me the owner needed to raise funds urgently before travelling abroad, and the land was well positioned. I needed to build an office, so I moved quickly. I had two weeks before returning to London and wanted as much progress as possible before I left.
 
 When I arrived at the land, I found a farmer using part of it to grow crops. He approached me and asked if I could give him a few months to harvest before we began construction. I could not wait, but out of goodwill, I asked him how much his harvest was worth. He gave me a figure I knew was inflated. I paid it anyway. He was grateful.
 
@@ -46,7 +46,7 @@ In my case, the damage was manageable. It cost me time and patience but nothing 
 
 ### The Tax Bill and the Friends Who Were Not There
 
-There was a period when I faced a tax issue in the United Kingdom. The resolution was simple in principle — I needed to transfer funds from my personal account to my business account before a deadline, which would have resolved the liability. My accountant gave me the instruction with less than twenty-four hours to spare. There was no time to arrange the funds myself.
+There was a period when I faced a tax issue in the United Kingdom. The resolution was simple in principle I needed to transfer funds from my personal account to my business account before a deadline, which would have resolved the liability. My accountant gave me the instruction with less than twenty-four hours to spare. There was no time to arrange the funds myself.
 
 I reached out to several close friends. People I had known for years. People I knew had the funds sitting idle in accounts, doing nothing. I was not asking for a gift. I was asking to borrow money for a matter of days. Not a single one was willing to help.
 
@@ -69,7 +69,7 @@ This is not a reason to be suspicious of everyone. It is a reason to observe peo
 
 ### Test Your Inner Circle
 
-The people closest to you should be tested, not maliciously, but deliberately. Give small requests. Observe how people respond when you are not at your best. Watch what they do when you are not in the room. Over time, the people who consistently show up, who protect your interests when it would be easier not to, who tell you the truth when you would prefer a comfortable lie — those people identify themselves. Hold them tightly.
+The people closest to you should be tested, not maliciously, but deliberately. Give small requests. Observe how people respond when you are not at your best. Watch what they do when you are not in the room. Over time, the people who consistently show up, who protect your interests when it would be easier not to, who tell you the truth when you would prefer a comfortable lie those people identify themselves. Hold them tightly.
 
 ### Prepare for Betrayal Before It Happens
 
@@ -89,7 +89,7 @@ This is not hardness. It is wisdom. The person who is grateful for your support 
 
 When someone gives you advice, counsel, a warning, or a recommendation, always ask yourself one question before you act on it: *where does their interest sit?*
 
-If the person advising you benefits from your following that advice, scrutinise it carefully. This does not mean they are wrong, but it means their perspective is not neutral, and you should account for that. The doctor whose income depends on a particular diagnosis, the financial adviser who earns commission on a product, the friend who benefits from a decision you are about to make — none of these people are necessarily dishonest. But their interest shapes what they see, and what they share.
+If the person advising you benefits from your following that advice, scrutinise it carefully. This does not mean they are wrong, but it means their perspective is not neutral, and you should account for that. The doctor whose income depends on a particular diagnosis, the financial adviser who earns commission on a product, the friend who benefits from a decision you are about to make none of these people are necessarily dishonest. But their interest shapes what they see, and what they share.
 
 Think for yourself. Weigh the advice against the adviser's position. Then decide.
 

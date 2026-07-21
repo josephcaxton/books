@@ -17,7 +17,7 @@ Over the course of more than twenty years, I have built something I consider one
 
 It started simply enough. After every job interview I attended, whether I won the contract or not, I would sit down as soon as I left and write out every question I had been asked. Then I would go away and research every area where I had stumbled, every gap the interviewers had exposed. I would add what I learned to my notes, turn the knowledge into questions and answers, and file it away.
 
-I use the Notes app on my Apple Mac. It syncs with my iPhone. On the train, at the bus stop, in a waiting room, in any spare moment — I open my phone and review the questions and answers I have accumulated. I revise them. I update them. I treat them the way a professional athlete treats match footage: not to dwell on past performances, but to close the gap between where I am and where I need to be.
+I use the Notes app on my Apple Mac. It syncs with my iPhone. On the train, at the bus stop, in a waiting room, in any spare moment I open my phone and review the questions and answers I have accumulated. I revise them. I update them. I treat them the way a professional athlete treats match footage: not to dwell on past performances, but to close the gap between where I am and where I need to be.
 
 Before walking into a contract interview, I study the job specification carefully, then revise my notes against it. I arrive having already answered the likely questions in my own mind. I have won contracts that others did not because of the information sitting in that note bank. Twenty years of feedback, research, and deliberate refinement, all available on a phone in my pocket.
 

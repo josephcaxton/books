@@ -28,7 +28,7 @@ This is what he wrote:
 
 *"Before our meeting, I was having a clouded mind. Everything felt overwhelming. I felt nothing was working out, my confidence was very low, and career-wise I felt I was not doing as much as I would have loved to do. I had also had a series of tragic events the previous year that I was still holding on to.*
 
-*After the meeting, I started doing simple things — organising my desk, journaling each day, listening to audiobooks and Earl Nightingale. I felt more clarity of mind. My confidence increased. I also handled setbacks better, because I lost a job during this period too. I was able to make tough decisions for myself. But overall, almost like magic, I got a very decent job offer. I believe there is still so much more to come."*
+*After the meeting, I started doing simple things organising my desk, journaling each day, listening to audiobooks and Earl Nightingale. I felt more clarity of mind. My confidence increased. I also handled setbacks better, because I lost a job during this period too. I was able to make tough decisions for myself. But overall, almost like magic, I got a very decent job offer. I believe there is still so much more to come."*
 
 Read that again carefully. He did not wait until he felt confident to take action. He took action, small, deliberate action and confidence followed. He did not wait until his mind was clear to start organising his life. He organised his life, and clarity came as a result.
 
@@ -79,6 +79,6 @@ Once you have written these down, step back and look for the repetition. Look fo
 
 Do not let a loud, chaotic world convince you that a meaningful life requires you to become famous or extraordinary in public. That is a lie.
 
-Raising children who are kind and strong, mastering a quiet craft, serving a local community, building a stable and honest business, creating art, or simply being a rock of dependability in a chaotic world — these are profound, noble, and deeply sacred purposes.
+Raising children who are kind and strong, mastering a quiet craft, serving a local community, building a stable and honest business, creating art, or simply being a rock of dependability in a chaotic world these are profound, noble, and deeply sacred purposes.
 
 Do not despise the day of small beginnings, and never underestimate the weight of a quiet, faithful life.
