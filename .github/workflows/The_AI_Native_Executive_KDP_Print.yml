@@ -1,0 +1,39 @@
+name: Build KDP Print PDF
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install System Dependencies for WeasyPrint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential python3-dev python3-pip python3-setuptools python3-wheel python3-cffi libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
+
+      - name: Install Python Libraries
+        run: |
+          pip install markdown2 weasyprint
+
+      - name: Generate PDF
+        run: |
+          python The-AI-Native-Executive-format-book.py
+
+      - name: Upload Print-Ready PDF Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: KDP-Print-Ready-PDF
+          path: The_AI_Native_Executive_KDP_Print.pdf
