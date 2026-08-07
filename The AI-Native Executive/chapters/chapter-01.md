@@ -180,7 +180,7 @@ Instead, the executive role concentrates on four irreplaceable functions:
 
 **1. Problem Framing**
 
-Defining what the system should solve — not how it should solve it. The "what" and "why" remain permanently human. The "how" is delegated to infrastructure.
+Defining what the system should solve, not how it should solve it. The "what" and "why" remain permanently human. The "how" is delegated to infrastructure.
 
 This is the highest value cognitive function in the enterprise. A system can execute a workflow brilliantly but it cannot determine whether the workflow is solving the right problem. It cannot redefine the objective when the market shifts. It cannot identify that the question being asked is wrong. Problem framing the ability to structure ambiguous reality into solvable logic is the permanent human premium. (We will return to this in depth in Chapter 11.)
 

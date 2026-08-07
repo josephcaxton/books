@@ -26,7 +26,7 @@ No one said "I am afraid of being replaced." No one organised formal opposition.
 
 The Head of AI left after nine months, citing "organisational readiness challenges."
 
-AI anxiety is not irrational. It is not a character flaw. It is not a communications problem solvable by a better town hall presentation. It is a predictable, universal human response to structural uncertainty about professional survival — and it is powerful enough to defeat technically excellent, strategically sound, fully funded transformation programmes if it is not addressed with the same rigour and investment as the technology itself.
+AI anxiety is not irrational. It is not a character flaw. It is not a communications problem solvable by a better town hall presentation. It is a predictable, universal human response to structural uncertainty about professional survival and it is powerful enough to defeat technically excellent, strategically sound, fully funded transformation programmes if it is not addressed with the same rigour and investment as the technology itself.
 
 The enterprise that deploys transformative technology without addressing the psychological reality of the people operating alongside it will spend more time and more money managing cultural resistance than it ever spent on technical implementation. The technology was the easy part. The humans were always going to be the hard part.
 
@@ -100,7 +100,7 @@ The most powerful cultural accelerant available and the least frequently deploye
 
 **The Perverse Incentive Problem:**
 
-In most organisations, employees have zero rational incentive to identify their own work as automatable. Flagging your tasks as "a machine could do this" feels indistinguishable from raising your hand and saying "I am unnecessary." The rational response — from the employee's perspective is to protect your domain, emphasise its unique complexity, resist external attempts to simplify it, and ensure that anyone attempting to automate your function encounters maximum friction.
+In most organisations, employees have zero rational incentive to identify their own work as automatable. Flagging your tasks as "a machine could do this" feels indistinguishable from raising your hand and saying "I am unnecessary." The rational response from the employee's perspective is to protect your domain, emphasise its unique complexity, resist external attempts to simplify it, and ensure that anyone attempting to automate your function encounters maximum friction.
 
 This is not sabotage. It is rational self-preservation within a system that punishes honesty about automation potential.
 

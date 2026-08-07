@@ -26,7 +26,7 @@ A 3.8% error rate is acceptable when the consequence of error is a slightly dela
 
 The distinction between these two scenarios between tolerable error and intolerable error is not a statistical question. It is a moral and strategic judgment that only a human leader can make. And someone must make it explicitly, in writing, before the system is deployed not after a patient nearly dies.
 
-The question this chapter addresses is the most consequential governance question in the autonomous enterprise: **where, exactly, must the machine stop and the human decide?**
+The question this chapter addresses is the most consequential governance question in the autonomous enterprise: **where exactly must the machine stop and the human decide?**
 
 ---
 
