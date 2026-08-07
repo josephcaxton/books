@@ -116,7 +116,7 @@ The implications:
 
 ### 12.3 The Rise of Sovereign AI Ecosystems: Beyond Centralised Global Providers
 
-The first wave of enterprise AI adoption (2022-2024) was dominated by a small number of global foundation model providers — OpenAI, Anthropic, Google, and Meta. Enterprises consumed their capability through APIs, accepting the trade-offs of vendor dependency, data exposure risk, pricing volatility, and the fundamental commoditisation that comes from using the same capability as every competitor.
+The first wave of enterprise AI adoption (2022-2024) was dominated by a small number of global foundation model providers OpenAI, Anthropic, Google, and Meta. Enterprises consumed their capability through APIs, accepting the trade-offs of vendor dependency, data exposure risk, pricing volatility, and the fundamental commoditisation that comes from using the same capability as every competitor.
 
 The next wave (2025-2030) is characterised by deliberate fragmentation and localisation driven by national security concerns, regulatory requirements, economic protectionism, and genuine performance advantages for specific use cases.
 
@@ -196,7 +196,7 @@ The executive's job is to resist that argument not because the system is incapab
 
 **Principle 4: Build Institutions That Outlast Individuals**
 
-The AI-native enterprise cannot depend on a single visionary leader who "gets it." The frameworks, governance structures, cultural principles, and architectural decisions described in this book must be institutionalised embedded in documented policy, encoded in system architecture, reflected in organisational design, and reinforced through hiring and development practices — so that they persist beyond any individual tenure.
+The AI-native enterprise cannot depend on a single visionary leader who "gets it." The frameworks, governance structures, cultural principles, and architectural decisions described in this book must be institutionalised embedded in documented policy, encoded in system architecture, reflected in organisational design, and reinforced through hiring and development practices so that they persist beyond any individual tenure.
 
 The ultimate test of AI-native leadership is not what you build while you are present. It is whether the governance architecture, the cultural principles, and the adaptive capacity continue to function correctly after you leave. An enterprise that reverts to legacy patterns when a key leader departs was never truly transformed. It was temporarily animated by an individual's vision and that is not durable.
 
