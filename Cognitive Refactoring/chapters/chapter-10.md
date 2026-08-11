@@ -57,7 +57,7 @@ Examples:
 
 **Asset Class 4: Failure Libraries**
 
-Accumulated knowledge of what does not work in specific contexts, and why. This is the negative space of expertise: understanding not just what to do but what to avoid, which approaches have been tried, which produced unintended consequences, and which environmental conditions cause otherwise sound strategies to fail.
+Accumulated knowledge of what does not work in specific contexts, and why. This is the negative space of expertise: understanding not just what to do but what to avoid, which approaches have been tried, which produced unintended consequences, and which environmental conditions cause sound strategies to fail.
 
 Examples:
 - Knowing that agile transformation in regulated industries fails when framed as a methodology change but succeeds when framed as a compliance acceleration initiative.
