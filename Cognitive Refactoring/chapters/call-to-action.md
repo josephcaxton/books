@@ -11,7 +11,7 @@ Through **First Cloud Solutions**, I deliver forward deployed AI and cloud engin
 - **Organisational AI Architecture** — Helping leadership teams move beyond tool procurement to genuine workflow redesign: the five-lever organisational refactoring this book describes, translated into technical and operational delivery.
 - **Executive Advisory** — Supporting leadership teams navigating workforce transformation: cognitive audits, capability migration roadmaps, orchestration maturity assessments, and the structural changes required to move from Stage 1 to Stage 4.
 
-Whether you are designing your first AI-augmented workflow, restructuring your teams for direction-over-execution, or building the organisational architecture that turns cognitive refactoring from a book into a daily operating practice, let's have a direct conversation.
+Whether you are designing your first AI-augmented workflow, restructuring your teams for direction over execution, or building the organisational architecture that turns cognitive refactoring from a book into a daily operating practice, let's have a direct conversation.
 
 ---
 
