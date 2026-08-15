@@ -4,7 +4,7 @@
 
 ## The Manager's Dilemma
 
-A product manager at a B2B SaaS company inherited a team of six: two designers, two engineers, a data analyst, and a content strategist. She had managed this configuration for three years. She understood each person's strengths, their working style, their growth edges, and how they interacted with each other. Her management model was relationship-based: she knew her people and she knew how to get the best from them.
+A product manager at a B2B SaaS company inherited a team of six: two designers, two engineers, a data analyst, and a content strategist. She had managed this configuration for three years. She understood each person's strengths, their working style, their growth edges, and how they interacted with each other. Her management model was relationship based: she knew her people and she knew how to get the best from them.
 
 Over six months, AI tools were integrated into the team's workflow one by one. The designers began using generative design tools for initial concept exploration. The engineers worked alongside AI coding assistants. The data analyst used AI-powered query and visualisation tools that compressed her analysis cycle by 70 percent. The content strategist used generative writing tools for first drafts.
 
@@ -60,8 +60,8 @@ The allocation criteria:
 |---|---|---|
 | Judgment complexity | High ambiguity, competing values, contextual nuance | Clear criteria, rule-based evaluation, pattern matching |
 | Contextual dependency | Requires relationship knowledge, organisational history, political awareness | Requires data access, pattern recognition across large datasets |
-| Accountability requirement | Someone must bear professional consequence if wrong | Error is recoverable, low-consequence, or caught by downstream validation |
-| Error consequence | High-stakes, irreversible, reputational, or legal | Low-stakes, reversible, or caught before impact |
+| Accountability requirement | Someone must bear professional consequence if wrong | Error is recoverable, low consequence, or caught by downstream validation |
+| Error consequence | High-stakes, irreversible, reputational, or legal | Low stakes, reversible, or caught before impact |
 | Creative originality | Requires genuine novel thinking, taste, or aesthetic judgment | Requires variation on established patterns, recombination of known elements |
 
 Work that scores high on the left column must route through human judgment. Work that scores high on the right column should route through AI execution. Work that falls in the middle requires designed collaboration: AI generates, human validates.
@@ -99,7 +99,7 @@ Coherence requires:
 
 ### The Team Architecture Model
 
-A human-AI team can be visualised as a three-layer architecture:
+A human-AI team can be visualised as a three layer architecture:
 
 **Layer 1: The Direction Layer (Human-Led)**
 
@@ -155,7 +155,7 @@ Every "Undefined" entry in the Interface column is a system design gap. At these
 
 **Step 3: Identify Allocation Mismatches**
 
-Compare the "Currently Performed By" column with the "Could Be Performed By" column. Where humans are doing work that could be performed by AI (pure execution, routine processing, pattern-based generation), you have capacity trapped in the wrong layer. Where AI is operating without adequate human governance at judgment-critical points, you have quality risk.
+Compare the "Currently Performed By" column with the "Could Be Performed By" column. Where humans are doing work that could be performed by AI (pure execution, routine processing, pattern based generation), you have capacity trapped in the wrong layer. Where AI is operating without adequate human governance at judgment critical points, you have quality risk.
 
 **Step 4: Identify Coherence Gaps**
 
@@ -193,7 +193,7 @@ As a team, map your three most common deliverables against the workflow template
 
 **Part 2: Allocation Discussion (20 minutes)**
 
-For each step currently performed by humans, ask the team: "Is this step primarily execution (pattern-based, repeatable, definable) or judgment (ambiguous, contextual, consequential)?" For execution-primary steps, discuss whether AI could handle 80 percent of the work with human validation. For judgment-primary steps, discuss whether AI could assist (generating options, identifying patterns) while the human retains the decision.
+For each step currently performed by humans, ask the team: "Is this step primarily execution (pattern based, repeatable, definable) or judgment (ambiguous, contextual, consequential)?" For execution primary steps, discuss whether AI could handle 80 percent of the work with human validation. For judgment primary steps, discuss whether AI could assist (generating options, identifying patterns) while the human retains the decision.
 
 **Part 3: Interface Design (20 minutes)**
 
@@ -223,8 +223,8 @@ Once your team is operating as a designed system, you need ongoing visibility in
 
 **Metrics for the Infrastructure Layer:**
 - System reliability: Uptime and availability of AI execution capabilities
-- Exception rate: How often does the infrastructure layer escalate to human judgment? (Should be moderate: too low suggests under-governance, too high suggests poor allocation)
-- Throughput capacity: Available versus utilised execution capacity (reveals whether the team is direction-constrained or capacity-constrained)
+- Exception rate: How often does the infrastructure layer escalate to human judgment? (Should be moderate: too low suggests under governance, too high suggests poor allocation)
+- Throughput capacity: Available versus utilised execution capacity (reveals whether the team is direction constrained or capacity constrained)
 
 ---
 
@@ -302,10 +302,10 @@ Designing your team as a human-AI system may put you ahead of your organisation'
 
 2. **Design the five system principles.** Clarity of interface (every handoff explicitly defined), appropriate allocation (work routed by nature, not convenience), feedback integration (the system learns from its output), graceful degradation (no single point of failure), and coherent output (parts combine into a strategically aligned whole).
 
-3. **Map before redesigning.** Audit your current workflows, identify undefined interfaces, spot allocation mismatches, and locate coherence gaps. Start with the three highest-friction interfaces and define them explicitly using the Interface Specification Template.
+3. **Map before redesigning.** Audit your current workflows, identify undefined interfaces, spot allocation mismatches, and locate coherence gaps. Start with the three highest friction interfaces and define them explicitly using the Interface Specification Template.
 
 4. **Operate across three layers.** Direction (human-led, sets intent and bears accountability), Production (human-AI collaborative, creates output), and Infrastructure (AI-led, human-governed, handles routine execution and coordination). Assign people and capabilities to layers based on function, not hierarchy.
 
-5. **Track system health, not just execution speed.** Direction clarity, judgment utilisation, first-pass quality, strategic alignment, and exception rate tell you whether your system is producing value. Velocity alone tells you whether it is producing volume, which in an abundance model is not the same thing.
+5. **Track system health, not just execution speed.** Direction clarity, judgment utilisation, first pass quality, strategic alignment, and exception rate tell you whether your system is producing value. Velocity alone tells you whether it is producing volume, which in an abundance model is not the same thing.
 
 ---
