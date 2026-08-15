@@ -4,11 +4,11 @@
 
 ## The Manager's Dilemma
 
-An engineering manager at a Series C fintech company ran a team of nine backend developers. His daily rhythm was well-established over six years: sprint planning on Monday, daily standups, code review assignments, 1:1s scattered through the week, retrospectives on Friday, and a continuous background process of unblocking, context switching, and keeping the work flowing.
+An engineering manager at a Series C fintech company ran a team of nine backend developers. His daily rhythm was well established over six years: sprint planning on Monday, daily standups, code review assignments, 1:1s scattered through the week, retrospectives on Friday, and a continuous background process of unblocking, context switching, and keeping the work flowing.
 
 He was good at it. His team shipped reliably. His retention was strong. His reputation with leadership was built on one consistent quality: his team always delivered on time.
 
-Then, over a six-month period, three things happened simultaneously. AI coding assistants compressed his developers' execution time by roughly 40 percent. An AI orchestration tool automated most of the dependency tracking and status aggregation he previously did manually. And a new product direction from leadership demanded that his team shift from building well-specified features to defining and prototyping solutions for ambiguous customer problems.
+Then, over a six month period, three things happened simultaneously. AI coding assistants compressed his developers' execution time by roughly 40 percent. An AI orchestration tool automated most of the dependency tracking and status aggregation he previously did manually. And a new product direction from leadership demanded that his team shift from building well specified features to defining and prototyping solutions for ambiguous customer problems.
 
 His first instinct was: "Great. We'll ship faster." And they did. For about two months.
 
@@ -43,7 +43,7 @@ Maintaining standards for the team's output. This includes code review oversight
 Growing your people's capabilities over time. This includes 1:1s focused on growth, stretch assignments, feedback delivery, career pathing, and the ongoing calibration of who is ready for what.
 
 **Activity 5: Direction**
-Defining what matters, why it matters, and how to think about problems before they are solved. This includes strategy translation (converting organisational objectives into team-level action), problem framing (deciding which problems are worth solving and how to structure them), and decision making on ambiguous issues where no correct answer exists.
+Defining what matters, why it matters, and how to think about problems before they are solved. This includes strategy translation (converting organisational objectives into team level action), problem framing (deciding which problems are worth solving and how to structure them), and decision making on ambiguous issues where no correct answer exists.
 
 ---
 
@@ -57,7 +57,7 @@ AI does not affect all five activities equally. It amplifies some, compresses ot
 | **Coordination** | Heavily compressed. AI orchestration handles dependency tracking, status aggregation, progress monitoring, and routine handoff sequencing. | The manager's coordination role shifts from manual tracking to system design: building the coordination infrastructure rather than performing coordination manually. |
 | **Quality Assurance** | Transformed. AI can flag code issues, check compliance, verify consistency, and identify anomalies. But quality judgment (Is this the right thing? Does it serve the actual need? Is it strategically aligned?) remains human. | Quality assurance bifurcates. Technical correctness checking migrates to AI. Strategic quality judgment intensifies as a human management function. |
 | **Development** | Largely unchanged but reframed. AI cannot develop people's judgment, build trust relationships, provide psychologically safe feedback, or design growth experiences. | Development remains deeply human but its content changes. Instead of developing execution skills, managers must develop judgment, direction capability, and orchestration fluency. |
-| **Direction** | Intensified. When execution capacity is abundant, the quality of direction determines whether that capacity produces value or waste. More output requires more strategic governance. | Direction becomes the primary management function rather than a secondary one performed "when there's time." It moves from important-but-neglected to the core of the role. |
+| **Direction** | Intensified. When execution capacity is abundant, the quality of direction determines whether that capacity produces value or waste. More output requires more strategic governance. | Direction becomes the primary management function rather than a secondary one performed "when there's time." It moves from important but neglected to the core of the role. |
 
 The net effect: **the manager's role migrates from execution orchestrator to judgment architect.**
 
@@ -87,7 +87,7 @@ Risk at this stage: inconsistency. The manager oscillates between the old model 
 
 The manager's primary function is now designing the human-AI system, setting strategic direction, developing team judgment, and bearing accountability for outcomes. Execution orchestration is handled by designed systems (both AI and process). The manager intervenes in execution only when judgment is required: quality calls, direction corrections, exception handling, and contextual decisions that fall outside automated parameters.
 
-Risk at this stage: disconnection from operational reality. The manager must maintain enough ground-level awareness to validate that the systems they designed are producing the intended outcomes. Designing without observing is architecture without feedback.
+Risk at this stage: disconnection from operational reality. The manager must maintain enough ground level awareness to validate that the systems they designed are producing the intended outcomes. Designing without observing is architecture without feedback.
 
 **Stage 4: The Cognitive System Architect (Mature State)**
 
@@ -237,7 +237,7 @@ For any significant piece of work, provide your team with:
 
 5. **The Context** (What invisible knowledge is relevant?): "The CEO mentioned informally that she is leaning toward Option A but wants to be convinced by data rather than instinct. Frame accordingly."
 
-This template takes three to five minutes to complete. It prevents days of well-executed work aimed at the wrong target. In an execution scarcity model, you could not afford this level of direction for every task because you could not afford the direction time. In an execution abundance model, you cannot afford to skip it because misdirected execution at speed creates more damage than misdirected execution at human pace.
+This template takes three to five minutes to complete. It prevents days of well executed work aimed at the wrong target. In an execution scarcity model, you could not afford this level of direction for every task because you could not afford the direction time. In an execution abundance model, you cannot afford to skip it because misdirected execution at speed creates more damage than misdirected execution at human pace.
 
 ---
 
@@ -252,7 +252,7 @@ Score yourself on each competency of the judgment architect role. Be honest. Thi
 | **Capability Architecture:** Can I design the optimal human-AI work allocation for my team? | | | |
 | **Direction Clarity:** Can I articulate intent precisely enough for both humans and AI systems to act on it? | | | |
 | **Judgment Cultivation:** Do I design growth experiences that build my people's judgment rather than their execution speed? | | | |
-| **Quality Jurisprudence:** Can I maintain quality standards when output is abundant and the effort-quality correlation has broken? | | | |
+| **Quality Jurisprudence:** Can I maintain quality standards when output is abundant and the effort quality correlation has broken? | | | |
 | **Accountability Architecture:** Is accountability clear in every human-AI workflow my team operates? | | | |
 
 **Scoring Guide:**
@@ -267,7 +267,7 @@ Score yourself on each competency of the judgment architect role. Be honest. Thi
 
 This week, pick one:
 
-- [ ] Conduct the weekly management audit (log fifteen-minute blocks against five categories for five days)
+- [ ] Conduct the weekly management audit (log fifteen minute blocks against five categories for five days)
 - [ ] Redesign one recurring meeting using the judgment architect meeting architecture
 - [ ] Rewrite your 1:1 agenda using the refactored questions
 - [ ] Complete one Direction Statement for a current piece of team work using the template
