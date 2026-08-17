@@ -247,7 +247,7 @@ This week, pick one:
 
 - [ ] Select your team's highest-frequency deliverable and list all its components (aim for 20+)
 - [ ] Classify five components on the four dimensions (Cognitive Type, Context Dependency, Error Consequence, Value Contribution)
-- [ ] Identify one component currently performed by humans that is clearly algorithmic, context-independent, recoverable, and commodity — and route it to AI this week
+- [ ] Identify one component currently performed by humans that is clearly algorithmic, context-independent, recoverable, and commodity and route it to AI this week
 - [ ] Hold the delegation conversation with one team member about how their role is shifting from production to judgment
 - [ ] Schedule your first monthly allocation calibration session
 
