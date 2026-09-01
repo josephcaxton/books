@@ -75,11 +75,15 @@ Each component has a clear role. The application owns context assembly and any v
 > **Step 1:** A user submits a request to the application.
 > **Step 2:** The application authenticates and authorises the user through its existing mechanism.
 > **Step 3:** The application assembles the context: the instruction and any data the task requires.
-> **Step 4:** Using its execution role, the application calls Bedrock over the private VPC endpoint.
-> **Step 5:** Bedrock performs inference and returns a response, streamed where appropriate.
-> **Step 6:** The application validates or post-processes the output as needed.
-> **Step 7:** The application records latency, token usage and outcome through its monitoring.
-> **Step 8:** The application returns the result to the user.
+> **Step 4:** The application assumes its scoped execution role.
+> **Step 5:** IAM returns temporary credentials for that role.
+> **Step 6:** The application issues the inference request over the private VPC endpoint.
+> **Step 7:** The VPC endpoint forwards the request to Bedrock on the private path.
+> **Step 8:** Bedrock performs inference and returns the response, streamed where appropriate.
+> **Step 9:** The VPC endpoint returns the response to the application.
+> **Step 10:** The application validates or post-processes the output as needed.
+> **Step 11:** The application records latency, token usage and outcome through its monitoring.
+> **Step 12:** The application returns the result to the user.
 
 The same flow expressed as a sequence diagram:
 
