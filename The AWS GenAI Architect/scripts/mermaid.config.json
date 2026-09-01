@@ -1,0 +1,16 @@
+{
+  "theme": "neutral",
+  "themeVariables": {
+    "fontFamily": "Georgia, 'Times New Roman', serif",
+    "fontSize": "16px"
+  },
+  "sequence": {
+    "useMaxWidth": true,
+    "showSequenceNumbers": true
+  },
+  "flowchart": {
+    "useMaxWidth": true,
+    "htmlLabels": true,
+    "curve": "basis"
+  }
+}
