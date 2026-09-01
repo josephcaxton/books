@@ -41,6 +41,31 @@ The reference architecture is intentionally small:
 - **Amazon Bedrock** performs inference and returns the response.
 - **Observability and logging**, using the application's existing monitoring, record requests, latency, token usage and errors.
 
+The same structure as a reference diagram:
+
+```mermaid
+flowchart LR
+    User([User])
+
+    subgraph AppAccount["Application account"]
+        App["Application<br/>(Lambda / ECS / EKS)"]
+        Role["Execution role<br/>(scoped, least privilege)"]
+        VPCe["VPC endpoint<br/>(private path)"]
+        Obs["Observability<br/>(latency, tokens, errors)"]
+    end
+
+    Bedrock["Amazon Bedrock<br/>(data plane: inference)"]
+
+    User -->|Request| App
+    App -->|Assumes| Role
+    App -->|InvokeModel| VPCe
+    VPCe -->|Private path| Bedrock
+    Bedrock -->|Response| VPCe
+    VPCe --> App
+    App -->|Metrics| Obs
+    App -->|Result| User
+```
+
 Each component has a clear role. The application owns context assembly and any validation of output. The execution role expresses least privilege. The VPC endpoint expresses the network boundary. Bedrock is the data plane. There is no separate control plane because, at this scale, the application and its IAM role are the controls.
 
 ---
@@ -55,6 +80,32 @@ Each component has a clear role. The application owns context assembly and any v
 > **Step 6:** The application validates or post-processes the output as needed.
 > **Step 7:** The application records latency, token usage and outcome through its monitoring.
 > **Step 8:** The application returns the result to the user.
+
+The same flow expressed as a sequence diagram:
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User
+    participant App as Application (Lambda / ECS)
+    participant IAM as IAM (execution role)
+    participant VPCe as VPC Endpoint
+    participant Bedrock as Amazon Bedrock
+    participant Obs as Observability
+
+    User->>App: Submit request
+    App->>App: Authenticate and authorise user
+    App->>App: Assemble context (instruction + data)
+    App->>IAM: Assume scoped execution role
+    IAM-->>App: Temporary credentials
+    App->>VPCe: InvokeModel over private path
+    VPCe->>Bedrock: Forward inference request
+    Bedrock-->>VPCe: Response (streamed where appropriate)
+    VPCe-->>App: Return response
+    App->>App: Validate / post-process output
+    App->>Obs: Record latency, tokens, outcome
+    App-->>User: Return result
+```
 
 The flow makes the pattern's simplicity concrete. There is one hop to the model, one identity involved, and one place, the application, where context is assembled and output is handled.
 

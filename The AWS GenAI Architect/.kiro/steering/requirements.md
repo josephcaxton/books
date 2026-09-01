@@ -36,6 +36,7 @@ draft can be reviewed against them. Requirement levels follow the convention in
 - **R4.5** Every pattern chapter must end with an "Architect's Verdict": a short, decisive, context aware recommendation.
 - **R4.6** Pattern chapters should present at least one reference architecture and describe the request and data flow step by step.
 - **R4.7** Pattern chapters should use the recurring visual markers consistently: 🧩 Pattern, ⚖️ Trade-off, 🔐 Security, 🌐 Network, 💷 Cost, ⚠️ Failure Mode, 🏗️ Architecture Decision, 👁️ Observability, 🤖 Agentic Consideration, 📐 Architect's Verdict.
+- **R4.8** Diagrams must be authored as diagram as code (Mermaid) inline in the chapter Markdown, which is the version controlled source of truth. Print ready SVG or PNG assets are produced from that source by a render step at typeset time and stored under `The AWS GenAI Architect/images/`; hand drawn images must not be maintained as a parallel source. Request and data flow (blueprint section 4) should be expressed as a Mermaid sequence diagram, and structural reference architectures (blueprint section 3) as a Mermaid flowchart. The diagram must not replace the step by step written flow required by R4.6; it accompanies it.
 
 ## 5. Architectural Rigour
 
@@ -97,5 +98,5 @@ draft can be reviewed against them. Requirement levels follow the convention in
 ## Open Questions
 
 - Should `requirements.md` also capture per chapter acceptance criteria, or remain a book wide rule set? (Currently book wide.)
-- Are diagrams to be authored inline (for example Mermaid) or supplied as external assets? This affects how R4.6 is verified.
+- ~~Are diagrams to be authored inline or supplied as external assets?~~ Resolved: hybrid approach adopted. Diagrams are authored as Mermaid inline (source of truth) and rendered to `The AWS GenAI Architect/images/` at typeset time. See R4.8.
 - Is there a defined citation or references style for R7.2 and Appendix G?
