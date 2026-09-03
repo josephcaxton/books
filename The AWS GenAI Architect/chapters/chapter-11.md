@@ -87,7 +87,6 @@ The reasoning model is the smallest part of the design. The controls around it, 
 
 ```mermaid
 sequenceDiagram
-    autonumber
     actor User
     participant Agent as Reasoning model
     participant Control as Control layer
@@ -95,19 +94,20 @@ sequenceDiagram
     participant Tool as Tool (least privilege)
     participant Obs as Observability
 
-    User->>Agent: Goal
+    User->>Agent: Step 1: Goal (via governed boundary)
     loop Until complete or limit reached
-        Agent->>Control: Propose next action
-        Control->>Obs: Record decision
-        alt Consequential action
+        Agent->>Control: Step 2: Decide next action
+        Control->>Control: Step 3: Check action against policy
+        alt Step 4: Consequential action
             Control->>Human: Request approval
             Human-->>Control: Approve / reject
         end
-        Control->>Tool: Invoke permitted tool
-        Tool-->>Agent: Result (treated as data)
-        Agent->>Obs: Record tool call + result
+        Control->>Tool: Step 5: Invoke permitted tool (least privilege)
+        Tool-->>Agent: Step 6: Result (treated as data)
+        Agent->>Agent: Step 7: Observe result, decide next step
+        Agent->>Obs: Step 9: Record decision, call, approval, result
     end
-    Agent-->>User: Outcome
+    Agent-->>User: Step 8: Conclude and return outcome
 ```
 
 The loop is the defining feature, and the step limit and approval checkpoints are what keep the loop from running away.
