@@ -7,7 +7,7 @@
 ## Table of Contents
 
 ### Introduction
-**The Obsolescence You Don't See Coming**
+**The Obsolescence You Don't See Coming:**
 The contract between author and reader. The two dangerous myths (Panic and Comfort). What cognitive refactoring means. The three pillars. Who this book is for and how it is structured.
 
 ---
