@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated book PDFs (rendered from chapter markdown, not source)
+AI Governance At Scale/chapters/*.pdf
